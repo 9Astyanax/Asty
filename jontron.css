@@ -1,0 +1,13 @@
+div.main-jontron{
+	background-color: firebrick
+
+}
+div.jontron-main{
+	position: absolute;
+    right: 0px;
+    width: 300px;
+    background-color: #b0e0e6;
+}
+body.body{
+	background-image:url("https://files.gamebanana.com/img/ico/sprays/551dfe55d9ec0.png");
+		}

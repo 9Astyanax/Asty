@@ -1,0 +1,52 @@
+div.SITES {
+	width:50%;
+	background-color:#686868;
+	margin-right:auto;
+	margin-left:auto;
+}
+h1.title-sites {
+	font-family: impact;
+	font-size: 200%;
+}
+body.body {
+	background-image: url("https://i.imgur.com/fONCv9C.gif");
+}
+div.memes {
+	width:50%;
+	margin-top:1000px;
+	background-color:#686868;
+	margin-right:auto;
+	margin-left:auto;
+}
+div.What {
+	width:50%;
+	background-color:#FF0066;
+	margin-left:auto;
+	margin-right:auto;
+
+
+}
+p.yes {
+	font-size:200%
+	font-family:Courier New;
+}
+p.no {
+	font-size:200%
+	font-family:Arial Black;
+}
+p.maby {
+	font-size:200%
+	font-family:Palatino Linotype;
+}
+p.so {
+
+	font-family:Lucida Console;
+	font-size: 100%;
+}
+
+div.audio{
+	width:50%;
+	background-color:686868;
+	margin-right:auto;
+	margin-left:auto;
+}

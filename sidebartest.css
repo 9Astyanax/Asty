@@ -1,0 +1,31 @@
+div.top {
+    position:absolute;
+    left:0; right:0;
+    height: 92px;
+}
+div.left {
+        position:absolute;
+    left:0; right:0;
+    height: 92px;
+}
+div.main {
+    position: absolute;
+    left:178px; top:92px; right:0; bottom:0;
+}
+div.text_top{
+	position:absolute;
+    left:0; right:0;
+    height: 92px;
+	color: #686868;
+}
+div.text_left{
+	position:absolute;
+    left:0; right:0;
+    height: 92px;
+	color: #686868;
+}
+div.text_main{
+	position: absolute;
+    left:178px; top:92px; right:0; bottom:0;	
+	color: #686868;
+}
